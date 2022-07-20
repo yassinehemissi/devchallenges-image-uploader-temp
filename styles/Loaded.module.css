@@ -1,0 +1,95 @@
+.container {
+  width: 400.36px;
+  height: 454.96px;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: -0.035em;
+  color: #4f4f4f;
+  padding: 10px 0;
+}
+
+.container img {
+  width: 338px;
+  height: 224.4px;
+  border-radius: 12px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  margin: 10px 0;
+}
+
+.container .link_container {
+  margin: 10px 0;
+  width: 338px;
+  height: 34px;
+  background: #f6f8fb;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container .link_container button {
+  width: 74px;
+  height: 30px;
+  border: 0;
+  background: #2f80ed;
+  border-radius: 8px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.7rem;
+  line-height: 12px;
+  text-align: center;
+  letter-spacing: -0.035em;
+  color: #ffffff;
+}
+
+.container .link_container p {
+  width: 240px;
+  height: 12px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.8rem;
+  line-height: 12px;
+  text-align: center;
+  letter-spacing: -0.035em;
+  color: #4f4f4f;
+  overflow: hidden;
+}
+/*# sourceMappingURL=Loaded.module.css.map */
